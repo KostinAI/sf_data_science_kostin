@@ -4,7 +4,7 @@ From the [SkillFactory Data Scince course](https://skillfactory.ru/data-scientis
 
 ## Projects
 
-* [Проект 0. Игра: Угадай число](https://github.com/KostinAI/sf_data_science_kostin/project_0)
+* [Проект 0. Игра: Угадай число](https://github.com/KostinAI/sf_data_science_kostin/tree/main/Project_0)
 * [Проект 1. ______](___)
 * [Проект 2. ______](___)
 
