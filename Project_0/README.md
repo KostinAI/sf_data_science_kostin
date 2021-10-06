@@ -2,9 +2,9 @@
 
 ## Оглавление
 [1. Описание проекта](https://github.com/KostinAI/sf_data_science_kostin/tree/main/Project_0/README.md#Описание-проекта)
-[2. Какой кейс решаем?](ttps://github.com/KostinAI/sf_data_science_kostin/tree/main/Project_0/README.md#Какой-кейс-решаем)
-[3. Краткая информация о данных](ttps://github.com/KostinAI/sf_data_science_kostin/tree/main/Project_0/README.md#Краткая-информация-о-данных)
-[4. Этапы работы над проектом](ttps://github.com/KostinAI/sf_data_science_kostin/tree/main/Project_0/README.md#Этапы-работы-над-проектом)
+[2. Какой кейс решаем?](https://github.com/KostinAI/sf_data_science_kostin/tree/main/Project_0/README.md#Какой-кейс-решаем)
+[3. Краткая информация о данных](https://github.com/KostinAI/sf_data_science_kostin/tree/main/Project_0/README.md#Краткая-информация-о-данных)
+[4. Этапы работы над проектом](https://github.com/KostinAI/sf_data_science_kostin/tree/main/Project_0/README.md#Этапы-работы-над-проектом)
 
 ### Описание проекта
 Угадать загаданное компьютером число за минимальное число попыток.
