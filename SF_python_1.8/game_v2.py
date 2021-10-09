@@ -15,7 +15,7 @@ def random_predict(number: int = 1) -> int:
         int: Число попыток
     """
     count = 0
-    predict_number = np.random.randint(1, 101)  # предполагаемое число
+    predict_number = 50  # предполагаемое число
     lower_boarder = 0
     upper_boarder = 100
 
