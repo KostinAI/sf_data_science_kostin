@@ -1,0 +1,12 @@
+INFO: 2022-03-18 18:47:00,341: Data
+INFO: 2022-03-18 18:47:40,902: Data shape (110527, 14)
+INFO: 2022-03-18 18:47:44,725: NumExpr defaulting to 8 threads.
+INFO: 2022-03-18 18:47:44,729: Percentage of women: 0.653882342398853
+INFO: 2022-03-18 18:47:53,386: Percentage of men: 0.346117657601147
+ERROR: 2022-03-18 18:48:11,215: Data shape is incorrect!
+INFO: 2022-03-18 18:50:11,599: Data
+INFO: 2022-03-18 18:50:11,601: Data shape (110527, 14)
+INFO: 2022-03-18 18:50:11,621: NumExpr defaulting to 8 threads.
+INFO: 2022-03-18 18:50:11,623: Percentage of women: 0.653882342398853
+INFO: 2022-03-18 18:50:11,637: Percentage of men: 0.346117657601147
+ERROR: 2022-03-18 18:52:00,514: Data shape is incorrect!
